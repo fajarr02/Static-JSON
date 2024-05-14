@@ -1,0 +1,43 @@
+[
+    {
+      "wallpaper": "Beach",
+      "impression": "Tenang",
+      "imageId": "beach"
+    },
+    {
+      "wallpaper": "Boat",
+      "impression": "Hening",
+      "imageId": "boat"
+    },
+    {
+        "wallpaper": "Planet",
+        "impression": "Misteri",
+        "imageId": "planet"
+    },
+    {
+        "wallpaper": "Sandstone",
+        "impression": "Artistik",
+        "imageId": "sandstone"
+    },
+    {
+        "wallpaper": "Sea",
+        "impression": "Indah",
+        "imageId": "sea"
+    },
+    {
+        "wallpaper": "Smoke",
+        "impression": "Gelap",
+        "imageId": "smoke"
+    },
+    {
+          "wallpaper": "Stars",
+          "impression": "Sepi",
+          "imageId": "stars"
+    },
+    {
+          "wallpaper": "Tree",
+          "impression": "Menakjukkan",
+          "imageId": "tree"
+    }
+    
+  ]
